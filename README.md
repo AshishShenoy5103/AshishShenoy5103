@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I'm developing a ChatBot using the ChatGPT API.<br>🌱 I'm diving deep into Blender to enhance my skills in 3D modeling and animation.<br>💬 I'm a passionate coder and gamer, currently pursuing my Bachelor's in Computer Science and Engineering as a third-year student.<br>⚡ In my free time, I enjoy exploring virtual worlds and creating digital art.
+🔭 I'm developing a ChatBot using the ChatGPT API.<br>🌱 I'm diving deep into Blender to enhance my skills in 3D modeling and animation.<br>💬 I'm a passionate coder and gamer, currently pursuing my Bachelor's in Computer Science and Engineering as a fourth-year student.<br>⚡ In my free time, I enjoy exploring virtual worlds and creating digital art.
 
 
 # 💻 Tech Stack:

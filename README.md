@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I'm developing a ChatBot using the ChatGPT API.<br>🌱 I'm diving deep into Blender to enhance my skills in 3D modeling and animation.<br>💬 I'm a passionate coder and gamer, currently pursuing my Bachelor's in Computer Science and Engineering as a fourth-year student.<br>⚡ In my free time, I enjoy exploring virtual worlds and creating digital art.
+👋 Hey there! I’m Ashish
+
+🔭 I’m currently exploring game development, focusing on Godot Engine and building immersive experiences for users.
+🌱 I’m expanding my technical skills, diving into C++, Node.js, MySQL, and system design, while also improving my DSA through LeetCode.
+💬 I’m passionate about coding and content creation, blending my love for problem-solving with digital art and 3D modeling using Blender.
+🎮 In my free time, I run a YouTube channel, where I explore itch.io horror games and end-game content from popular gacha titles.
+⚡ I believe in continuous learning—whether it’s building projects from scratch, enhancing technical foundations, or exploring new technologies.
 
 
 # 💻 Tech Stack:

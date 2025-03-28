@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hey there! I’m Ashish
 
-🔭 I’m currently exploring game development, focusing on Godot Engine and building immersive experiences for users.
-🌱 I’m expanding my technical skills, diving into C++, Node.js, MySQL, and system design, while also improving my DSA through LeetCode.
-💬 I’m passionate about coding and content creation, blending my love for problem-solving with digital art and 3D modeling using Blender.
-🎮 In my free time, I run a YouTube channel, where I explore itch.io horror games and end-game content from popular gacha titles.
-⚡ I believe in continuous learning—whether it’s building projects from scratch, enhancing technical foundations, or exploring new technologies.
+🔭 I’m currently exploring game development, focusing on Godot Engine and building immersive experiences for users.<br>
+🌱 I’m expanding my technical skills, diving into C++, Node.js, MySQL, and system design, while also improving my DSA through LeetCode.<br>
+💬 I’m passionate about coding and content creation, blending my love for problem-solving with digital art and 3D modeling using Blender.<br>
+🎮 In my free time, I run a YouTube channel, where I explore itch.io horror games and end-game content from popular gacha titles.<br>
+⚡ I believe in continuous learning—whether it’s building projects from scratch, enhancing technical foundations, or exploring new technologies.<br>
 
 
 # 💻 Tech Stack:

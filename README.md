@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hey there! I’m Ashish
+👋 Hey there! I’m Ashish  
 ⚡ I believe in continuous learning—whether it’s building projects from scratch, enhancing technical foundations, or exploring new technologies.<br>
 
 
